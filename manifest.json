@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Video Song Detector",
+    "name": "Bollywood Song Skip",
     "version": "1.0.1",
-    "description": "Detect start and endpoints of songs in videos.",
+    "description": "Skip Songs",
     "permissions": [
       "activeTab",
       "webNavigation"
