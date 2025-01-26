@@ -1,5 +1,3 @@
-// content.js - Detect start and endpoints of a song in a movie
-
 (function() {
   let audioContext;
   let mediaSource;
